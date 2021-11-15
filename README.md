@@ -26,7 +26,7 @@
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
 - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).
+- 📫 Email me at [charlie0819@naver.com](charlie0819@naver.com).
 
 
 
