@@ -1,14 +1,10 @@
 <h2 title="hehehe"> Hey 👋, I'm JinYongKim!</h2>
 
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+<a href="https://www.linkedin.com/in/%EC%A7%84%EC%9A%A9-%EA%B9%80-09b17321a/">
+  <img align="left" alt="JinYong's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/j.sanskarr/">
-  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
+
+
 
 
 
@@ -23,8 +19,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 👨🏽‍💻 I’m currently a Undergraduate student at Chung Ang University, Seoul.
+- 🌱 I’m currently exploring DeepLearning with a big interest in Smart Contracts. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [charlie0819@naver.com](charlie0819@naver.com).
 
@@ -48,4 +44,4 @@
 -----
 Credits: [Kim-jy0819](https://github.com/sanskarjaiswal2001)
 
-Last Edited on: 20/06/2021
+Last Edited on: 11/17/2021
