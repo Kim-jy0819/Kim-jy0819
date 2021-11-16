@@ -30,11 +30,7 @@
 
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
-
+<code><img height="20" src="https://user-images.githubusercontent.com/63527907/142009838-3948074a-c1aa-4669-b9e2-1f43d01d42c0.png></code> Pytorch
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kim-jy0819&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="JinYong's GitHub Stats">
@@ -42,6 +38,6 @@
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-jy0819&count_private=true&theme=radical" alt="SanskarJaiswal" />
 
 -----
-Credits: [Kim-jy0819](https://github.com/sanskarjaiswal2001)
+Credits: [Kim-jy0819](https://github.com/Kim-jy0819)
 
 Last Edited on: 11/17/2021
