@@ -19,8 +19,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Undergraduate student at Chung Ang University, Seoul.
-- 🌱 I’m currently exploring DeepLearning with a big interest in Smart Contracts. 
+- 👨🏽‍💻 I’m currently a 3D Vision Engineer at nuvilab, Seoul.
+- 🌱 I’m currently exploring 3D Vision with a big interest in 3D reconstruction, SLAM and Autonomous driving. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [charlie0819@naver.com](charlie0819@naver.com).
 
