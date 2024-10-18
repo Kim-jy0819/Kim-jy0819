@@ -15,8 +15,6 @@
 
  
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a 3D Vision Engineer at nuvilab, in Seoul.
